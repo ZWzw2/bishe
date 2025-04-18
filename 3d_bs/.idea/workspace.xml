@@ -18,9 +18,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.7.12/spring-data-commons-2.7.12.jar!/org/springframework/data/repository/CrudRepository.class" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.3.12/spring-tx-5.3.12.jar!/org/springframework/transaction/annotation/Transactional.class" root0="SKIP_INSPECTION" />
@@ -28,7 +25,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/demo/service/impl/Data3DServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -38,24 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ThreeDTestApplication.executor": "Run",
-    "Maven.3d_test [clean].executor": "Run",
-    "Maven.3d_test [compile].executor": "Run",
-    "Maven.3d_test [install].executor": "Run",
-    "Maven.3d_test [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/data/3d_test_bs1",
-    "project.structure.last.edited": "问题",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "应用程序.ThreeDTestApplication.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ThreeDTestApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.3d_test [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.3d_test [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.3d_test [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.3d_test [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/data/3d_test_bs1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;问题&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;应用程序.ThreeDTestApplication.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\test" />
